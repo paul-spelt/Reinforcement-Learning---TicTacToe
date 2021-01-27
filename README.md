@@ -1,5 +1,5 @@
 # Reinforcement-Learning---TicTacToe
-TicTacToe Robot created for self-learning
+TicTacToe Robot created for self-learning\n
 This robot plays N games of TicTacToe against itself as p1 and p2.
 The winner of each game is rewarded and the reward is propagated through the historical board states.
 This leads to a State:Value dictionary which is used to guide policy decisions.
